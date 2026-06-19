@@ -1,7 +1,8 @@
 Missing any libraries? (ModuleNotFoundError)
+Install them within your venv
 
 ```
-pip install
+pip install <library>
 ```
 
 (numpy, pandas, matplotlib, pillow)
