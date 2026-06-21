@@ -19,6 +19,12 @@ import sys
 print(sys.executable)
 ```
 
+to run in jupyter notebook
+
+```
+jupyter notebook
+```
+
 ### Git Issues
 
 If you get a warning like "the repository at /path has too many active changes, only a subset of Git features will be enabled"
