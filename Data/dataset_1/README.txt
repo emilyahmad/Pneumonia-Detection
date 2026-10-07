@@ -1,3 +1,5 @@
+*grab from old computer
+
 AIMI dataset_1 (chest X-rays, detection/classification)
 Subsampled from the full original; images kept at native 1024x1024 resolution.
 train=3000 / val=1500 / test=1500 patients, ~3:1 neg:pos.

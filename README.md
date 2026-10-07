@@ -1,3 +1,6 @@
+Need to:
++ Grab datasets from old computer
+
 # Pneumonia-Detection
 
 Classification, segmentation project
